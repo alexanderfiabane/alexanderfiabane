@@ -19,17 +19,13 @@
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-java-white?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-whiteC?style=flat-square&logo=c"/>
- <img scr="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bootstrap-whiteC?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github"/>
-<img scr="https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black"/>
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-java-00599C?style=flat-square&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript"/> 
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> 
 </p>
 
 <h2 align="center">Reach me out on</h2>
@@ -46,17 +42,21 @@
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=taperinha&show_icons=true&theme=default&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=taperinha&show_icons=true&theme=default">
+<p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=taperinha&layout=compact&langs_count=8&show_icons=true&theme=default">  
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taperinha&show_icons=true&locale=en&layout=compact&theme=default&line_height=0" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=taperinha&show_icons=true&theme=default&line_height=27">  
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taperinha&show_icons=true&locale=en&layout=compact&theme=default&line_height=0" />   
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=taperinha&theme=redical">
+ <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=taperinha&theme=default"/>
+ <!--<img src="https://activity-graph.herokuapp.com/graph?username=taperinha&theme=dfault">-->
 </p> 
 <hr>
 
