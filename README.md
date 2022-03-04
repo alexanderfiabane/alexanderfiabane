@@ -12,9 +12,10 @@
 
 </p>
 
-<!-- <p align="center">
-  I'm a Ph.D. candidate in Computational Intelligence 🎓 from the Federal University of Paraná 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+<h2 align="center">About me</h2>
+<p align="center">
+  I'm a Ph.D. candidate in Computational Intelligence 🎓 from the Federal University of Paraná 🏛. I enjoy challenging projects that make me out of my comfort set, the perfect environment to grow. And a passionate learner and helper.
+</p>
 
 <h2 align="center">Technology Stack</h2>
 
@@ -54,11 +55,11 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taperinha&show_icons=true&locale=en&layout=compact&theme=default&line_height=0" />   
 </p> 
 
-<p align = "center">
+<!--<p align = "center">
  <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=taperinha&theme=default"/>
- <!--<img src="https://activity-graph.herokuapp.com/graph?username=taperinha&theme=dfault">-->
+ <img src="https://activity-graph.herokuapp.com/graph?username=taperinha&theme=dfault">
 </p> 
-<hr>
+<hr>-->
 
 <!--
 **taperinha/taperinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
