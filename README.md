@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![road-sunset-marking-grass-wallpaper-preview](https://user-images.githubusercontent.com/7151726/156683911-eec62f3c-6e54-4d21-8364-edae5c1d73b6.jpg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taperinha)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taperinha)](https://git.io/streak-stats)
