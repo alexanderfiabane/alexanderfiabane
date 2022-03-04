@@ -19,22 +19,24 @@
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
- <img src="https://img.shields.io/badge/-Python?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-java-white?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-whiteC?style=flat-square&logo=c"/>
+ <img scr="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-whiteC?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github"/>
+<img scr="https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black"/>
 </p>
 
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/fiabane-alexander/">
- <img src="https://img.shields.io/badge/-fiabane-alexander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiabane-alexander/"/>
+<a href="https://www.linkedin.com/in/fiabane-alexander/">
+ <img src="https://img.shields.io/badge/-fiabane--alexander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiabane-alexander/"/>
 </a> 
 </p>
 
