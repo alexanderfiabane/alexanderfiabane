@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **taperinha/taperinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![road-sunset-marking-grass-wallpaper-preview](https://user-images.githubusercontent.com/7151726/156683911-eec62f3c-6e54-4d21-8364-edae5c1d73b6.jpg)
