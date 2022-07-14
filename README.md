@@ -5,10 +5,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/taperinha/taperinha"/> 
+ <img src="https://badges.pufler.dev/visits/alexanderfiabane/alexanderfiabane"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/taperinha"/>
- <img src="https://badges.pufler.dev/commits/monthly/taperinha" />
+ <img src="https://badges.pufler.dev/repos/alexanderfiabane"/>
+ <img src="https://badges.pufler.dev/commits/monthly/alexanderfiabane" />
 
 </p>
 
@@ -56,8 +56,8 @@
 </p> 
 
 <!--<p align = "center">
- <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=taperinha&theme=default"/>
- <img src="https://activity-graph.herokuapp.com/graph?username=taperinha&theme=dfault">
+ <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=alexanderfiabane&theme=default"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=alexanderfiabane&theme=dfault">
 </p> 
 <hr>-->
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taperinha)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taperinha)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderfiabane)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexanderfiabane)](https://git.io/streak-stats)
 
 -->
 
