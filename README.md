@@ -44,15 +44,15 @@
 <br>
 
 <p align="center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=taperinha&layout=compact&langs_count=8&show_icons=true&theme=default">  
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderfiabane&layout=compact&langs_count=8&show_icons=true&theme=default">  
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=taperinha&show_icons=true&theme=default&line_height=27">  
+  <img src = "https://github-readme-stats.vercel.app/api?username=alexanderfiabane&show_icons=true&theme=default&line_height=27">  
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taperinha&show_icons=true&locale=en&layout=compact&theme=default&line_height=0" />   
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderfiabane&show_icons=true&locale=en&layout=compact&theme=default&line_height=0" />   
 </p> 
 
 <!--<p align = "center">
@@ -62,7 +62,7 @@
 <hr>-->
 
 <!--
-**taperinha/taperinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexanderfiabane/alexanderfiabane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
