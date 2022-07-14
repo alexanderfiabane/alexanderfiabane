@@ -5,10 +5,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/alexanderfiabane/alexanderfiabane"/> 
+ <img src="https://badges.pufler.dev/visits/taperinha/taperinha"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/alexanderfiabane"/>
- <img src="https://badges.pufler.dev/commits/monthly/alexanderfiabane" />
+ <img src="https://badges.pufler.dev/repos/taperinha"/>
+ <img src="https://badges.pufler.dev/commits/monthly/taperinha" />
 
 </p>
 
