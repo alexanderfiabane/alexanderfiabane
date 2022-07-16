@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://www.deviantart.com/hendryroesly/art/Journey-fanart-546064090"/>
+<img src="https://github.com/alexanderfiabane/alexanderfiabane/blob/main/image/journey.png"/>
 
 <p align="center">
  
