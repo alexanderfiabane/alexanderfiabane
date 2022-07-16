@@ -20,13 +20,23 @@
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> 
- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/-java-00599C?style=flat-square&logo=java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white"/> 
- <img src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript"/> 
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> 
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Java-00599C?style=for-the-badge&logo=apachenetbeanside"/>
+ <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-php-9cf?style=for-the-badge&logo=php"/>
+ <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-JQuery-EFEBEA?style=for-the-badge&logo=jquery&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/-SpringMVC-green?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=hibernate"/>
+ <img src="https://img.shields.io/badge/-Laravel-EFEBEA?style=for-the-badge&logo=laravel"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-Apache Solr-EFEBEA?style=for-the-badge&logo=apachesolr"/>
+ <img src="https://img.shields.io/badge/-MySQL-5499C7?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-DB2-purple?style=for-the-badge&logo=oracle"/> 
+ <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> 
+ <img src="https://img.shields.io/badge/-Subversion-EFEBEA?style=for-the-badge&logo=subversion"/> 
 </p>
 
 <h2 align="center">Reach me out on</h2>
