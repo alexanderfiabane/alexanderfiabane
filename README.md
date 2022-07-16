@@ -14,7 +14,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-  I'm a Ph.D. candidate in Computational Intelligence 🎓 from the Federal University of Paraná 🏛. I enjoy challenging projects that make me out of my comfort set, the perfect environment to grow. And a passionate learner and helper.
+  I'm a Ph.D. candidate in Computational Intelligence 🎓 at the Federal University of Paraná 🏛. I enjoy challenging projects that make me out of my comfort set, the perfect environment to grow. Also, a passionate learner and helper.
 </p>
 
 <h2 align="center">Technology Stack</h2>
