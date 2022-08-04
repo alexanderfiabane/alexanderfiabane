@@ -12,10 +12,10 @@
 
 </p>
 
-<h2 align="center">About me</h2>
+<!--<h2 align="center">About me</h2>
 <p align="center">
   I enjoy challenging projects that make me out of my comfort set, the perfect environment to grow. Also, I'm a passionate learner and helper who appreciates 🏯 Japanese culture and a ☕ good cup of coffee.
-</p>
+</p>-->
 
 <h2 align="center">Technology Stack</h2>
 
